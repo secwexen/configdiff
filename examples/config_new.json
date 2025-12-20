@@ -1,0 +1,5 @@
+{
+  "debug": false,
+  "db_host": "prod-db",
+  "db_port": 5432
+}
