@@ -29,7 +29,7 @@ python src/diff.py examples/config_old.json examples/config_new.json
 
 ## Project Structure
 ```
-ConfigDiff/
+configdiff/
 ├── src/diff.py
 ├── examples/config_old.json
 ├── examples/config_new.json
