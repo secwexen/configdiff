@@ -1,0 +1,14 @@
+# This file defines code ownership rules for this repository.
+# Owners will automatically be requested for review when changes are made to the specified paths.
+
+# Owner for everything in the repository
+* @secwexen
+
+# Owner for blog folder
+/examples/ @secwexen
+
+# Owner for blog folder
+/src/ @secwexen
+
+# Owner for specific file
+README.md @secwexen
